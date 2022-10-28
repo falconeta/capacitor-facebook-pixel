@@ -1,4 +1,4 @@
-package com.falconeta.capacitor.facebook.pixel
+package com.falconeta.capacitor_facebook_pixel
 
 import com.getcapacitor.JSObject
 import com.getcapacitor.Plugin

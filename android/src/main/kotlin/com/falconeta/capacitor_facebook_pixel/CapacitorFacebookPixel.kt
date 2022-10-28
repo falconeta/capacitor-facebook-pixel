@@ -1,4 +1,4 @@
-package com.falconeta.capacitor.facebook.pixel
+package com.falconeta.capacitor_facebook_pixel
 
 import android.util.Log
 
