@@ -1,6 +1,6 @@
 {
   "name": "@falconeta/capacitor-facebook-pixel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "plugin that enable pixel functionalities",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -74,5 +74,8 @@
     "android": {
       "src": "android"
     }
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
